@@ -1,0 +1,15 @@
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+background-color: rgb(48, 47, 47);
+/* height: auto;
+width: auto;  */
+    
+}
